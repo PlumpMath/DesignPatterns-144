@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace hwapp
+namespace dpfactory
 {
     public interface IProduct
     {
